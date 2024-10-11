@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakh0vine&label=Profile%20views&color=0e75b6&style=flat" alt="zakh0vine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakh0vine" alt="zakh0vine" /></a> </p>
-
 - 🌟 Currently pursuing my studies in **Telkom University Purwokerto**
 
 - 🌱 I’m currently learning **Javascript, PHP, React, Express**
