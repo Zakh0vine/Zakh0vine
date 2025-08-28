@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakh0vine&label=Profile%20views&color=0e75b6&style=flat" alt="zakh0vine" /> </p>
 
-- 🌟 Currently pursuing my studies in **Telkom University Purwokerto**
+- 🌟 Fresh graduate in Informatics Engineering **Telkom University Purwokerto**
 
 - 🌱 I’m currently learning **Javascript, PHP, React, Express**
 
