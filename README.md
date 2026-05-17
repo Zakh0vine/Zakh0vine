@@ -3,7 +3,7 @@
 <h3 align="center">Junior Web Developer</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on Kementerian Ketenagakerjaan Republik Indonesia<br><br>🌟 Fresh graduate in Informatics Engineering Telkom University Purwokerto<br><br>🌱 I’m currently learning Javascript, PHP, React, Express<br><br>💬 Ask me about Python, Javascript, PHP<br><br>📫 How to reach me adityasetiawan792@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/setiawan-aditya/<br><br>⚡ Fun fact Gamer
+🔭 I’m currently working on Kementerian Ketenagakerjaan Republik Indonesia<br><br>🌟 Fresh graduate in Informatics Engineering Telkom University Purwokerto<br><br>🌱 I’m currently learning Javascript, PHP, Typescript, Bootstrap, Tailwind, React, Lavarel, and Express<br>><br>📫 How to reach me adityasetiawan792@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/setiawan-aditya/<br><br>⚡ Fun fact Gamer
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zakhovine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/setiawan-aditya/) 
