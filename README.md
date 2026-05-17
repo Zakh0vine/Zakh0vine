@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakh0vine&show_icons=true&locale=en" alt="zakh0vine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakh0vine&" alt="zakh0vine" /></p>
+
+![snake gif](https://github.com/Zakh0vine/Zakh0vine/blob/output/github-snake-dark.svg)
